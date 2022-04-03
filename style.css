@@ -8,6 +8,8 @@ h2 {
     text-align: center;
 }
 
+/* Página principal */
+
 /* Menu */ 
 
 #menu {
@@ -28,7 +30,13 @@ h2 {
     margin-top: -34px;
 }
 
+.linkedin {
+    float: left;
+    margin-right: 4px;
+}
+
 .linkedin-img {
+    
 }
 
 .pages {
@@ -56,3 +64,19 @@ h2 {
 }
 
 /*  */
+
+/* Fim da Página Principal */
+
+/* Página Habilidades */
+
+/* Textos */
+
+.textos {
+    margin-left: 10%;
+    text-align: justify;
+    width: 80%;
+}
+
+/*  */
+
+/* Fim da Página Habilidades */
