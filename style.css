@@ -8,8 +8,8 @@
 
 #menu {
     background-color: black;
+    border-radius: 10px 10px 0px 10px;
     height: 60px;
-    border-bottom: orange solid 27px;
     padding-top: 2px;
 }
 
@@ -24,18 +24,11 @@
     margin-top: -34px;
 }
 
-.manu-redes-sociais {
-    float: left;
-}
-
-.icon-redes-sociais {
-    width: 25px;
-    height: 25px;
+.linkedin-img {
 }
 
 .pages {
     float: right;
-    
 }
 
 .buttons {
@@ -53,8 +46,9 @@
 /* Minha foto */
 
 .minha-foto {
-    margin: 0px 0px 0px 19%;
+    margin: 30px 0px 0px 25%;
     width: 50%;
+    border-radius: 30px;
 }
 
 /*  */
