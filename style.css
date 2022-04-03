@@ -4,6 +4,10 @@
     font-family: 'Titillium Web', sans-serif;
 }
 
+h2 {
+    text-align: center;
+}
+
 /* Menu */ 
 
 #menu {
