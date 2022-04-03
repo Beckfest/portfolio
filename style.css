@@ -1,35 +1,60 @@
 .páginas {
     background-color: orangered;
     color: white;
+    font-family: 'Titillium Web', sans-serif;
 }
 
-/* Menu */
+/* Menu */ 
 
 #menu {
     background-color: black;
-    border-bottom: orange solid 26px;
-    border-left: orange solid 0.5rem;
+    height: 60px;
+    border-bottom: orange solid 27px;
     padding-top: 2px;
 }
 
 .meu-nome {
-    font-size: 20px;
+    margin-top: 0px;
+    font-family: 'Alumni Sans Inline One', cursive;
+    font-size: 50px;
     text-align: center;
 }
 
 #menu-buttons {
-    margin-right:0.2%;
+    margin-top: -34px;
+}
+
+.manu-redes-sociais {
+    float: left;
+}
+
+.icon-redes-sociais {
+    width: 25px;
+    height: 25px;
+}
+
+.pages {
+    float: right;
+    
 }
 
 .buttons {
-    margin-right: 3px;
-    margin-top: 2px;
     padding: 2px 10px;
     text-decoration: none;
-    border-radius: 10px;
+    border-radius: 0px 0px 10px 10px;
     font-size: 15px;
     border-color: black;
     background-color: black;
     color: orange;
-    float: right;
 }
+
+/*  */
+
+/* Minha foto */
+
+.minha-foto {
+    margin: 0px 0px 0px 19%;
+    width: 50%;
+}
+
+/*  */
